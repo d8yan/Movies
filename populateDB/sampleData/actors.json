@@ -1,0 +1,12 @@
+[
+    {
+        "fullName": "Sam Worthington",
+        "country": "United Kingdom",
+        "movies": [{"title":"Avatar", "character":"Sample1"}, {"title":"Titanic", "character":"Sample2"}, {"title":"Avatar", "character":"Blablabla"}]
+    },
+    {
+        "fullName": "Tom Hanks",
+        "country": "United States",
+        "movies": [{"title":"Forrest Gump", "character":"Forrest"}, {"title":"John Wick", "character":"John"}, {"title":"Avatar", "character":"Extra"}]
+    }
+]

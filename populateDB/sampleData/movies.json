@@ -1,0 +1,859 @@
+[
+    {
+        "title": "Avatar",
+        "yearReleased": 2009,
+        "director": "James Cameron",
+        "category": "Sci-fi",
+        "image": "/images/avatar.jpg",
+        "description": "Jake Sully, a paraplegic Marine, is sent on a mission to infiltrate the Na'vi, an indigenous species, by taking on the form of an Avatar. As he becomes more deeply involved with the Na'vi and their way of life, Jake must choose between his loyalty to humanity and his newfound love for Pandora and its inhabitants. With breathtaking visuals and groundbreaking special effects, 'Avatar' is an epic adventure that explores the complex relationship between humans and the natural world."
+    },
+    {
+        "title": "Titanic",
+        "yearReleased": 1997,
+        "director": "James Cameron",
+        "category": "Romance",
+        "image": "/images/titanic.jpg",
+        "description": "A young woman named Rose boards the luxurious ocean liner on its maiden voyage with her wealthy fiancé, Cal. But when she meets Jack, a penniless artist, she falls in love and they embark on a passionate but doomed romance. As the ship hits an iceberg and begins to sink, Rose and Jack struggle to survive while facing the harsh realities of class, privilege, and the fragility of life."
+    },
+    {
+        "title": "Frozen",
+        "yearReleased": 2013,
+        "director": "Chris Buck",
+        "category": "Adventure",
+        "image": "/images/frozen.jpg",
+        "description": "The story follows Anna, a fearless and determined princess who embarks on a journey to save her kingdom from an eternal winter. Along the way, Anna is joined by a magical ice queen, Elsa, and a friendly snowman named Olaf. With their help, Anna battles the elements and her own fears to bring summer back to her beloved home."
+    },
+    {
+        "title": "Forrest Gump",
+        "yearReleased": 1994,
+        "director": "Robert Zemeckis",
+        "category": "Drama",
+        "image": "/images/forrest_gump.jpg",
+        "description": "The film tells the story of Forrest, a kind-hearted and simple man who overcomes adversity and touches the lives of everyone he meets. From his childhood in Alabama to his time serving in the Vietnam War, Forrest experiences some of the most defining moments of the 20th century. With its heartwarming themes and unforgettable performances, Forrest Gump is a classic film that will leave you feeling inspired."
+    },
+    {
+        "title": "Full Metal Jacket",
+        "yearReleased": 1987,
+        "director": "Stanley Kubrick",
+        "category": "Drama",
+        "image": "/images/full_metal_jacket.jpg",
+        "description": "The film follows a group of young soldiers as they are trained and sent off to fight in the Vietnam War. From the brutal training sessions to the chaotic battlefield, Full Metal Jacket offers a realistic and unflinching look at the horrors of war. With its powerful performances and themes, this film is a must-see for anyone interested in the Vietnam War or war films in general."
+    },
+    {
+        "title": "The Bourne Identity",
+        "yearReleased": 2002,
+        "director": "Doug Liman",
+        "category": "Action",
+        "image": "/images/the_bourne_identity.jpg",
+        "description": "The story follows Jason Bourne, a man suffering from amnesia, as he tries to piece together his identity while evading dangerous assassins. With thrilling action sequences and a suspenseful plot, The Bourne Identity is a high-stakes adventure that will keep you on the edge of your seat."
+    },
+    {
+        "title": "John Wick",
+        "yearReleased": 2014,
+        "director": "Chad Stahelski",
+        "category": "Action",
+        "image": "/images/john_wick.jpg",
+        "description": "A retired hitman's peaceful life is shattered when gangsters kill his beloved dog, a gift from his deceased wife. Seeking revenge, John Wick unleashes his lethal skills on those who wronged him, putting the entire criminal underworld on notice. With breathtaking action sequences, stylish direction, and a captivating performance by Keanu Reeves, 'John Wick' is a pulse-pounding thrill ride that redefined the action genre."
+    },
+    {
+        "title": "The Equalizer",
+        "yearReleased": 2014,
+        "director": "Antoine Fuqua",
+        "category": [
+            "Action",
+            "Thriller"
+        ],
+        "image": "/images/the_equalizer.jpg",
+        "description": "Denzel Washington stars as Robert McCall, a retired CIA agent who now leads a quiet life in Boston. But when he sees a young prostitute being abused by her pimp, McCall can't stand idly by. Using his formidable skills, he takes on the Russian gangsters who control the city's criminal underworld, becoming a one-man army in a battle for justice. With tense action, slick direction, and an unforgettable performance by Washington, 'The Equalizer' is a gripping and satisfying action-thriller."
+    },
+    {
+        "title": "Interstellar",
+        "yearReleased": 2014,
+        "director": "Christopher Nolan",
+        "category": "Sci-fi",
+        "image": "/images/interstellar.jpg",
+        "description": "In a future where the Earth is dying, a team of astronauts led by Matthew McConaughey travels through a wormhole in search of a new home for humanity. But as they encounter cosmic phenomena and confront the limits of human knowledge, they must grapple with the power of love, the nature of time, and the fate of the universe itself. With stunning visuals, mind-bending science, and emotional."
+    },
+    {
+        "title": "The Hobbit: An Unexpected Journey",
+        "yearReleased": 2012,
+        "director": "Peter Jackson",
+        "category": [
+            "Fantasy",
+            "Adventure",
+            "Action"
+        ],
+        "image": "/images/the_hobbit_an_unexpected_journey.jpg",
+        "description": "Bilbo Baggins (Martin Freeman) is a hobbit who lives a quiet life until the wizard Gandalf (Ian McKellen) arrives at his door with a group of dwarves. They are on a quest to reclaim their homeland from the dragon Smaug, and they need Bilbo's help. Along the way, they face goblins, trolls, and other dangers, and Bilbo discovers a courage he never knew he had. 'The Hobbit': An Unexpected Journey is a thrilling and magical fantasy adventure."
+    },
+    {
+        "title": "The Godfather",
+        "yearReleased": 1972,
+        "director": "Francis Ford Coppola",
+        "category": "Drama",
+        "image": "/images/the_god_father.jpg",
+        "description": "The film follows the Corleone family, a powerful Mafia dynasty, as they navigate the criminal underworld and the challenges of maintaining their power. With an all-star cast and a gripping story, The Godfather is considered one of the greatest films of all time."
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "yearReleased": 1994,
+        "director": "Frank Darabont",
+        "category": "Drama",
+        "image": "/images/shawshank_redemption.jpg",
+        "description": "The film tells the story of Andy Dufresne, a man wrongfully convicted of murder, as he befriends a fellow inmate and works to prove his innocence. With themes of hope, friendship, and redemption, The Shawshank Redemption has become a beloved classic and a must-see film."
+    },
+    {
+        "title": "The Matrix",
+        "yearReleased": 1999,
+        "director": "The Wachowskis",
+        "category": "Sci-fi",
+        "image": "/images/matrix.jpg",
+        "description": "The story follows a computer hacker named Neo as he discovers the truth about reality and his place in a dystopian future where humans are enslaved by intelligent machines."
+    },
+    {
+        "title": "The Dark Knight",
+        "yearReleased": 2008,
+        "director": "Christopher Nolan",
+        "category": [
+            "Drama",
+            "Action"
+        ],
+        "image": "/images/dark_knight.jpg",
+        "description": "The movie explores the darker side of the Batman mythology, as the Caped Crusader battles the psychotic Joker, who seeks to create chaos and anarchy in Gotham City."
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "yearReleased": 2001,
+        "director": "Peter Jackson",
+        "category": "Fantasy",
+        "image": "/images/fellowship_ring.jpg",
+        "description": "'The Fellowship of the Ring' follows the journey of Frodo Baggins (Elijah Wood) and a fellowship of heroes as they set out to destroy the One Ring, a powerful artifact that could bring about the end of Middle-earth. With stunning visuals, epic battles, and unforgettable characters, Peter Jackson's adaptation is a masterpiece of fantasy filmmaking that captivated audiences around the world."
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "yearReleased": 1977,
+        "director": "George Lucas",
+        "category": "Sci-fi",
+        "image": "/images/star_wars.jpg",
+        "description": "'A New Hope' tells the story of Luke Skywalker (Mark Hamill), a farm boy who discovers he is destined to become a Jedi and fight against the evil Empire. Along with Han Solo (Harrison Ford) and Princess Leia (Carrie Fisher), Luke embarks on a daring mission to rescue the galaxy from tyranny and oppression."
+    },
+    {
+        "title": "Jurassic Park",
+        "yearReleased": 1993,
+        "director": "Steven Spielberg",
+        "category": "Sci-fi",
+        "image": "/images/jurassic_park.jpg",
+        "description": "Steven Spielberg's blockbuster adaptation of Michael Crichton's novel is a thrilling adventure that brings dinosaurs back to life. When a group of scientists visit a theme park filled with cloned dinosaurs, they soon discover that the creatures are not as contained as they thought. As chaos erupts and the predators break free, the humans must fight for survival in a race against time."
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "yearReleased": 2018,
+        "director": "Anthony Russo, Joe Russo",
+        "category": "Action",
+        "image": "/images/avengers_infinity_war.jpg",
+        "description": "The culmination of a decade of Marvel Cinematic Universe storytelling, 'Infinity War' brings together the Avengers and their allies in a battle against the powerful Thanos (Josh Brolin), who seeks to collect the six Infinity Stones and wipe out half the universe. With a star-studded cast, epic action sequences, and jaw-dropping twists, this film is a thrilling and emotional rollercoaster that will leave fans breathless."
+    },
+    {
+        "title": "Black Panther",
+        "yearReleased": 2018,
+        "director": "Ryan Coogler",
+        "category": "Sci-fi",
+        "image": "/images/black_panther.jpg",
+        "description": "After the death of his father, T'Challa (Chadwick Boseman) returns to Wakanda to take his rightful place as the king. However, he soon discovers that his kingdom is threatened by enemies who want to steal Wakanda's resources. With the help of his allies, including Okoye (Danai Gurira) and Nakia (Lupita Nyong'o), T'Challa must fight to protect his people and prevent a global war."
+    },
+    {
+        "title": "Blade Runner 2049",
+        "yearReleased": 2017,
+        "director": "Denis Villeneuve",
+        "category": "Sci-fi",
+        "image": "/images/blade_runner_2049.jpg",
+        "description": "Set thirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what's left of society into chaos. His discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former blade runner who has been missing for three decades."
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "yearReleased": 2018,
+        "director": "Bryan Singer",
+        "category": "Drama",
+        "image": "/images/bohemian_rhapsody.jpg",
+        "description": "The movie follows the journey of Freddie Mercury (Rami Malek), the lead singer of the legendary rock band Queen. From his early days as a struggling musician to his rise to fame and eventual triumph at the Live Aid concert, the movie captures the essence of Mercury's incredible life and career."
+    },
+    {
+        "title": "Coco",
+        "yearReleased": 2017,
+        "director": "Lee Unkrich, Adrian Molina",
+        "category": "Adventure",
+        "image": "/images/coco.jpg",
+        "description": "The movie tells the story of a young boy named Miguel who dreams of becoming a musician like his idol, the late Ernesto de la Cruz. However, when he accidentally finds himself in the Land of the Dead, Miguel must team up with a charming trickster named Héctor to unravel the mystery of his family's past and return to the Land of the Living before it's too late."
+    },
+    {
+        "title": "Deadpool",
+        "yearReleased": 2016,
+        "director": "Tim Miller",
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "image": "/images/deadpool.jpg",
+        "description": "The movie follows the adventures of Wade Wilson (Ryan Reynolds), a former Special Forces operative turned mercenary who is diagnosed with cancer. In an attempt to save his life, Wade undergoes a risky experimental treatment that leaves him with superhuman abilities. Using his newfound powers, Wade becomes Deadpool, a wisecracking antihero who sets out to track down the man who nearly destroyed his life."
+    },
+    {
+        "title": "Doctor Strange",
+        "yearReleased": 2016,
+        "director": "Scott Derrickson",
+        "category": [
+            "Adventure",
+            "Action",
+            "Drama"
+        ],
+        "image": "/images/doctor_strange.jpg",
+        "description": "It follows the story of a brilliant but arrogant neurosurgeon, Dr. Stephen Strange, played by Benedict Cumberbatch, whose life changes forever after a car accident. He discovers the hidden world of mysticism and alternate dimensions, learning ancient magic and confronting dark forces in order to protect the world. With stunning visuals and thrilling action sequences, 'Doctor Strange' takes audiences on a mind-bending journey of self-discovery and heroism."
+    },
+    {
+        "title": "Dunkirk",
+        "yearReleased": 2017,
+        "director": "Christopher Nolan",
+        "category": "Action",
+        "image": "/images/dunkirk.jpg",
+        "description": "Set during World War II, it depicts the true events of the evacuation of Allied soldiers from the beaches of Dunkirk. The film follows the intense and harrowing experiences of soldiers on land, sea, and air, as they fight for survival amidst enemy fire and perilous conditions. With a powerful score and outstanding performances by an ensemble cast, 'Dunkirk' is a cinematic tour de force that immerses viewers in the chaos and heroism of war."
+    },
+    {
+        "title": "Get Out",
+        "yearReleased": 2017,
+        "director": "Jordan Peele",
+        "category": "Horror",
+        "image": "/images/get_out.jpg",
+        "description": "It tells the story of a young black man, Chris, played by Daniel Kaluuya, who visits the family of his white girlfriend, Rose, for a weekend getaway. As the weekend unfolds, Chris discovers disturbing secrets about the family and their guests, leading him on a terrifying journey of suspense and survival. With an insightful commentary on race relations and a cleverly crafted storyline, 'Get Out' is a thought-provoking and chilling thriller."
+    },
+    {
+        "title": "Dig",
+        "yearReleased": 2022,
+        "director": "Adam Wingard",
+        "category": [
+        "Thriller",
+        "Drama"
+        ],
+        "image": "/images/dig.jpg",
+        "description": "Dig is a psychological thriller about a young archaeologist named Lily who embarks on a dig in the Middle East. As she delves deeper into the excavation site, she uncovers a dark secret that puts her and her team in danger. The more she uncovers, the more she realizes that she may have stumbled upon something that should have remained buried. With danger lurking around every corner, Lily must use all her wits and resources to uncover the truth and survive." },
+    {
+        "title": "Joker",
+        "yearReleased": 2019,
+        "director": "Todd Phillips",
+        "category": "Drama",
+        "image": "/images/joker.jpg",
+        "description": "This movie is a psychological thriller that explores the origins of the infamous DC villain, played by Joaquin Phoenix. Set in 1981 Gotham City, the film follows failed comedian Arthur Fleck as he descends into madness and becomes the Joker. With its dark and gritty tone, the film offers a disturbing look at the effects of societal neglect and mental illness."
+    },
+    {
+        "title": "Avengers: Endgame",
+        "yearReleased": 2019,
+        "director": "Anthony Russo",
+        "category": "Action",
+        "image": "/images/avengers_endgame.jpg",
+        "description": "The movie is the epic conclusion to the Marvel Cinematic Universe's Infinity Saga. The Avengers, along with allies and new heroes, unite to defeat the villainous Thanos and restore balance to the universe. With breathtaking action sequences, emotional character moments, and stunning visual effects, the film is a satisfying finale to over a decade of storytelling."
+    },
+    {
+        "title": "Parasite",
+        "yearReleased": 2019,
+        "director": "Bong Joon-ho",
+        "category": "Thriller",
+        "image": "/images/parasite.jpg",
+        "description": "The movie is a Korean thriller that explores the complex relationship between two families from different social classes. The film's clever and unpredictable plot delivers a scathing commentary on class inequality and the human condition. With its masterful direction, exceptional performances, and thought-provoking themes, 'Parasite' is a cinematic masterpiece."
+    },
+    {
+        "title": "A Star is Born",
+        "yearReleased": 2018,
+        "director": "Bradley Cooper",
+        "category": "Drama",
+        "image": "/images/a_star_is_born.jpg",
+        "description": "This movie a romantic drama that tells the story of a seasoned musician, played by Bradley Cooper, who falls in love with a struggling artist, played by Lady Gaga. As their careers take off, their relationship faces challenges from fame, addiction, and personal demons. With its heartfelt performances, poignant storytelling, and memorable soundtrack, the film offers a timeless and emotional love story."
+    },
+    {
+        "title": "The Shape of Water",
+        "yearReleased": 2017,
+        "director": "Guillermo del Toro",
+        "category": "Fantasy",
+        "image": "/images/the_shape_of_water.jpg",
+        "description": "The movie  is a fantasy drama that follows the unlikely romance between a mute janitor and a humanoid amphibian creature held captive in a government facility. With its imaginative world-building, stunning visuals, and touching performances, the film offers a unique and moving love story that transcends societal boundaries."
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "yearReleased": 2014,
+        "director": "Wes Anderson",
+        "category": "Adventure",
+        "image": "/images/the_grand_budapest_hotel.jpg",
+        "description": "This movie is a whimsical adventure comedy that follows the misadventures of a hotel concierge and his protégé as they try to clear their names after being falsely accused of murder. With its quirky characters, fast-paced storytelling, and vibrant visuals, the film showcases Wes Anderson's distinctive style and offers a charming and delightful cinematic experience."
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "yearReleased": 2015,
+        "director": "George Miller",
+        "category": "Action",
+        "image": "/images/mad_max_fury_road.jpg",
+        "description": "This movie is a post-apocalyptic action film that follows the escape of a group of survivors from a tyrannical ruler, led by the fierce Imperator Furiosa, played by Charlize Theron. With its adrenaline-fueled chase sequences, breathtaking practical effects, and feminist themes, the film redefines the action genre and offers a thrilling and exhilarating cinematic experience."
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "yearReleased": 2017,
+        "director": "Martin McDonagh",
+        "category": "Drama",
+        "image": "/images/three_billboards.jpg",
+        "description": "This movie is a dark comedy-drama that follows a mother, played by Frances McDormand, who takes matters into her own hands to find justice for her daughter's murder. With its sharp writing, powerful performances, and nuanced exploration of grief, anger, and forgiveness, the film is a thought-provoking and emotionally impactful cinematic experience."
+    },
+    {
+        "title": "A Quiet Place",
+        "yearReleased": 2018,
+        "director": "John Krasinski",
+        "category": "Horror",
+        "image": "/images/a_quiet_place.jpg",
+        "description": "This movie is a horror film directed by John Krasinski. Set in a post-apocalyptic world, the film follows a family who must live in silence to avoid being attacked by creatures that hunt by sound. With minimal dialogue and an emphasis on tension and suspense, 'A Quiet Place' keeps audiences on the edge of their seats."
+    },
+    {
+        "title": "Green Book",
+        "yearReleased": 2018,
+        "director": "Peter Farrelly",
+        "category": "Drama",
+        "image": "/images/green_book.jpg",
+        "description": "This movie  is a drama film directed by Peter Farrelly. The film tells the story of an Italian-American bouncer who becomes the driver for an African-American classical pianist on a tour of the Deep South in the 1960s. The film explores themes of race, class, and friendship in a heartwarming and humorous way."
+    },
+    {
+        "title": "Us",
+        "yearReleased": 2019,
+        "director": "Jordan Peele",
+        "category": "Horror",
+        "image": "/images/us.jpg",
+        "description": "This movie is a horror film directed by Jordan Peele. The film follows a family who are confronted by their doppelgangers while on vacation. With a mix of suspense, social commentary, and dark humor, 'Us' is a chilling and thought-provoking thriller."
+    },
+    {
+        "title": "Little Women",
+        "yearReleased": 2019,
+        "director": "Greta Gerwig",
+        "category": "Drama",
+        "image": "/images/little_women.jpg",
+        "description": "This movie  is a drama film directed by Greta Gerwig. Based on the classic novel by Louisa May Alcott, the film tells the story of four sisters coming of age in the aftermath of the Civil War. With a talented cast and beautiful cinematography, 'Little Women' is a timeless tale of family, love, and independence."
+    },
+    {
+        "title": "Jojo Rabbit",
+        "yearReleased": 2019,
+        "director": "Taika Waititi",
+        "category": "Drama",
+        "image": "/images/jojo_rabbit.jpg",
+        "description": "This movie  is a dark comedy-drama film directed by Taika Waititi. Set during World War II, the film tells the story of a young boy in Nazi Germany who has an imaginary friend who happens to be Adolf Hitler. With a mix of satire, humor, and heart, 'Jojo Rabbit' is a unique and poignant take on a difficult subject."
+    },
+    {
+        "title": "The Gentlemen",
+        "yearReleased": 2019,
+        "director": "Guy Ritchie",
+        "category": "Action",
+        "image": "/images/the_gentlemen.jpg",
+        "description": "This movie is an action-comedy film directed by Guy Ritchie. The film follows a British drug lord who tries to sell his empire to a group of Oklahoma billionaires. With a talented cast and Ritchie's signature style of fast-paced action and witty dialogue, 'The Gentlemen' is a fun and entertaining ride."
+    },
+    {
+        "title": "The Irishman",
+        "yearReleased": 2019,
+        "director": "Martin Scorsese",
+        "category": "Drama",
+        "image": "/images/the_irishman.jpg",
+        "description": "The film follows the life of Frank Sheeran, a truck driver who becomes a hitman involved with some of the most notorious figures of the 20th century. With an all-star cast including Robert De Niro, Al Pacino, and Joe Pesci, 'The Irishman' spans decades and explores themes of loyalty, regret, and the cost of a life in organized crime."
+    },
+    {
+        "title": "Nomadland",
+        "yearReleased": 2020,
+        "director": "Chloé Zhao",
+        "category": "Drama",
+        "image": "/images/nomadland.jpg",
+        "description": "Nomadland is a 2020 drama film directed by Chloé Zhao, based on the book 'Nomadland: Surviving America in the Twenty-First Century' by Jessica Bruder. The film follows a woman in her 60s named Fern who, after the economic collapse of a company town in rural Nevada, becomes a modern-day nomad traveling through the American West."
+    },
+    {
+        "title": "Tenet",
+        "yearReleased": 2020,
+        "director": "Christopher Nolan",
+        "category": "Sci-fi",
+        "image": "/images/tenet.jpg",
+        "description": "Tenet is a 2020 science-fiction action-thriller film written and directed by Christopher Nolan. The film follows the Protagonist, a secret agent who must prevent World War III through time inversion. "
+    },
+    {
+        "title": "Sound of Metal",
+        "yearReleased": 2020,
+        "director": "Darius Marder",
+        "category": "Drama",
+        "image": "/images/sound_of_metal.jpg",
+        "description": "The film follows a heavy metal drummer named Ruben who begins to experience hearing loss, and his struggles to come to terms with his new reality. With powerful performances from Riz Ahmed and Olivia Cooke, 'Sound of Metal' is a moving exploration of identity, loss, and the human experience."
+    },
+    {
+        "title": "The Trial of the Chicago 7",
+        "yearReleased": 2020,
+        "director": "Aaron Sorkin",
+        "category": "Drama",
+        "image": "/images/the_trial_of_the_chicago_7.jpg",
+        "description": "The film is based on the infamous 1969 trial of seven defendants charged with conspiracy and inciting a riot during the 1968 Democratic National Convention in Chicago. With a talented ensemble cast including Sacha Baron Cohen, Eddie Redmayne, and Mark Rylance, 'The Trial of the Chicago 7' is a gripping exploration of justice, protest, and the power of dissent."
+    },
+    {
+        "title": "Mank",
+        "yearReleased": 2020,
+        "director": "David Fincher",
+        "category": "Drama",
+        "image": "/images/mank.jpg",
+        "description": "The film follows the life of Herman J. Mankiewicz, the screenwriter who co-wrote the classic film 'Citizen Kane'. With a talented cast including Gary Oldman, Amanda Seyfried, and Charles Dance, 'Mank' is a stylish and thought-provoking exploration of Hollywood history, politics, and the creative process."
+    },
+    {
+        "title": "The Father",
+        "yearReleased": 2020,
+        "director": "Florian Zeller",
+        "category": "Drama",
+        "image": "/images/the_father.jpg",
+        "description": " A man named Anthony, played by Anthony Hopkins, who is losing his grip on reality as he struggles with dementia. The film takes the audience on a journey through Anthony's fading memory as he tries to understand the changes happening in his life. Directed by Florian Zeller, the film is a masterful exploration of the human mind and the toll that memory loss takes on families."
+    },
+    {
+        "title": "Minari",
+        "yearReleased": 2020,
+        "director": "Lee Isaac Chung",
+        "category": "Drama",
+        "image": "/images/minari.jpg",
+        "description": "Minari follows a Korean-American family as they move to rural Arkansas in pursuit of the American Dream. The film, directed by Lee Isaac Chung, explores the tensions between the family's traditional Korean values and their new life in America. The story is both touching and funny, highlighting the joys and struggles of immigrant families as they navigate a new culture."
+    },
+    {
+        "title": "Judas and the Black Messiah",
+        "yearReleased": 2021,
+        "director": "Shaka King",
+        "category": "Drama",
+        "image": "/images/judas_and_the_black_messiah.jpg",
+        "description": "'Judas and the Black Messiah' tells the story of Fred Hampton, a young Black Panther leader, and William O'Neal, the FBI informant who betrayed him. Directed by Shaka King, the film is a powerful and gripping drama that explores the complex political and social issues of the 1960s. With outstanding performances by Daniel Kaluuya and LaKeith Stanfield, the film is a must-see for anyone interested in American history and civil rights."
+    },
+    {
+        "title": "The Martian",
+        "yearReleased": 2015,
+        "director": "Ridley Scott",
+        "category": "Sci-fi",
+        "image": "/images/the_martian.jpg",
+        "description": "The Martian is a thrilling science fiction film directed by Ridley Scott and released in 2015. The movie is based on the novel of the same name by Andy Weir and stars Matt Damon as astronaut Mark Watney, who is stranded on Mars after his team presumes him dead and leaves him behind. The film follows Watney as he struggles to survive on the barren planet and find a way to make contact with Earth, all while his former crewmates race against time to bring him back home."
+    },
+    {
+        "title": "The Matrix Revolutions",
+        "yearReleased": 2003,
+        "director": "The Wachowskis",
+        "category": [
+            "Sci-fi",
+            "Action"
+        ],
+        "image": "/images/the_matrix_revolutions.jpg",
+        "description": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith."
+    },
+    {
+        "title": "Jaw",
+        "yearReleased": 1975,
+        "director": "Steven Spielberg",
+        "category": "Thriller",
+        "image": "/images/jaw.jpg",
+        "description": "The movie based on the 1974 novel by Peter Benchley. It stars Roy Scheider as police chief Martin Brody, who, with the help of a marine biologist (Richard Dreyfuss) and a professional shark hunter (Robert Shaw), hunts a man-eating great white shark that attacks beachgoers at a summer resort town. Murray Hamilton plays the mayor, and Lorraine Gary portrays Brody's wife."
+    },
+    {
+        "title": "The Lion King",
+        "yearReleased": 1994,
+        "director": "Roger Allers and Rob Minkoff",
+        "category": "Drama",
+        "image": "/images/the_lion_king.jpg",
+        "description": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub’s arrival. Scar, Mufasa’s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba’s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his. "
+    },
+    {
+        "title": "Equilibrium",
+        "yearReleased": 2002,
+        "director": "Kurt Wimmer",
+        "category": "Sci-fi",
+        "image": "/images/equilibrium.jpg",
+        "description": "In a dystopian future, a totalitarian regime maintains peace by subduing the populace with a drug, and displays of emotion are punishable by death. A man in charge of enforcing the law rises to overthrow the system."
+    },
+    {
+        "title": "The Terminator",
+        "yearReleased": 1984,
+        "director": "James Cameron",
+        "category": "Sci-fi",
+        "image": "/images/the_terminator.jpg",
+        "description": "It stars Arnold Schwarzenegger as the Terminator, a cyborg assassin sent back in time from 2029 to 1984 to kill Sarah Connor (Linda Hamilton), whose unborn son will one day save mankind from extinction by Skynet, a hostile artificial intelligence in a post-apocalyptic future. Kyle Reese (Michael Biehn) is a soldier sent back in time to protect Sarah."
+    },
+    {
+        "title": "Source Code",
+        "yearReleased": 2011,
+        "director": "Duncan Jones",
+        "category": "Sci-fi",
+        "image": "/images/source_code.jpg",
+        "description": "The movie stars Jake Gyllenhaal as Captain Colter Stevens, a soldier who wakes up in the body of a commuter on a train that is about to explode. Stevens is part of a secret government project that allows him to relive the last 8 minutes of another person's life, giving him the opportunity to prevent a terrorist attack. As he races against time to identify the bomber and stop the attack, Stevens begins to question the true nature of his mission and the people behind it."
+    },
+    {
+        "title": "Rocky",
+        "yearReleased": 1976,
+        "director": "John G. Avildsen",
+        "category": "Drama",
+        "image": "/images/rocky.jpg",
+        "description": "The movie follows Rocky Balboa, an underdog boxer from Philadelphia who gets a shot at the world heavyweight championship. Despite facing seemingly insurmountable odds, Rocky trains hard and finds the strength to go the distance against his opponent, Apollo Creed (Carl Weathers). Along the way, he also falls in love with Adrian (Talia Shire), a shy pet store employee who becomes his biggest supporter. "
+    },
+    {
+        "title": "Schindler's List",
+        "yearReleased": 1993,
+        "director": "Steven Spielberg",
+        "category": "Drama",
+        "image": "/images/schindlers_list.jpg",
+        "description": "Schindler's List is a historical drama film released in 1993 and directed by Steven Spielberg. The film is based on the true story of Oskar Schindler (Liam Neeson), a German businessman who saved the lives of more than a thousand Jewish refugees during the Holocaust. Set in Poland during World War II, Schindler's List is a powerful and emotionally devastating portrayal of the horrors of the Holocaust and the human capacity for both evil and compassion. "
+    },
+    {
+        "title": "Braveheart",
+        "yearReleased": 1995,
+        "director": "Mel Gibson",
+        "category": [
+            "Action",
+            "Drama"
+        ],
+        "image": "/images/braveheart.jpg",
+        "description": "William Wallace, a Scottish warrior who leads his people in a revolt against the oppressive English rule. Wallace becomes a symbol of hope and freedom for the Scottish people, inspiring them to fight for their independence. Along the way, he falls in love with Murron (Catherine McCormack), but their happiness is short-lived as she is killed by English soldiers. In his quest for revenge and freedom, Wallace rallies his fellow Scots and engages in a series of epic battles against the English."
+    },
+    {
+        "title": "Gladiator",
+        "yearReleased": 2000,
+        "director": "Ridley Scott",
+        "category": "Drama",
+        "image": "/images/gladiator.jpg",
+        "description": "The movie follows the story of Maximus Decimus Meridius, a loyal general who is betrayed by the corrupt prince Commodus and forced to become a gladiator. With his skill and valor, Maximus rises through the ranks of the gladiatorial arena, becoming a symbol of hope for the oppressed people of Rome. "
+    },
+    {
+        "title": "The Departed",
+        "yearReleased": 2006,
+        "director": "Martin Scorsese",
+        "category": "Drama",
+        "image": "/images/the_departed.jpg",
+        "description": "Set in Boston, the film explores the corrupt world of the Irish-American mafia and the efforts of law enforcement to bring them down. The story follows the lives of two men - one a police officer working undercover in the mafia, and the other a mafia member who has infiltrated the police force. "
+    },
+    {
+        "title": "Inception",
+        "yearReleased": 2010,
+        "director": "Christopher Nolan",
+        "category": [
+            "Action",
+            "Adventure",
+            "Sci-fi"
+        ],
+        "image": "/images/inception.jpg",
+        "description": "The film explores the concept of dreams within dreams as a team of skilled thieves attempt to pull off an impossible heist by entering the dreams of their target. As the layers of dreams become deeper and more complex, the lines between reality and illusion begin to blur. With its stunning visuals, intricate plot, and stellar performances from its cast, including Leonardo DiCaprio and Ellen Page, Inception is a must-see film for anyone interested in mind-bending thrillers."
+    },
+    {
+        "title": "The Prestige",
+        "yearReleased": 2006,
+        "director": "Christopher Nolan",
+        "category": [
+            "Drama",
+            "Mystery",
+            "Sci-fi"
+        ],
+        "image": "/images/the_prestige.jpg",
+        "description": "Set in London at the turn of the 20th century, the film follows two rival magicians, played by Hugh Jackman and Christian Bale, as they try to outdo each other with their acts. Their obsession with becoming the greatest magician leads them down a dangerous path, where nothing is as it seems. With its twists and turns, incredible performances, and stunning cinematography, The Prestige is a must-watch for fans of mystery and drama."
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "yearReleased": 1991,
+        "director": "Jonathan Demme",
+        "category": [
+            "Drama",
+            "Thriller"
+        ],
+        "image": "/images/the_silence_of_the_lambs.jpg",
+        "description": "The film follows young FBI trainee Clarice Starling, played by Jodie Foster, as she is tasked with interviewing the notorious cannibalistic serial killer Dr. Hannibal Lecter, played by Anthony Hopkins, in order to gain insight into another serial killer on the loose. As Clarice delves deeper into the case, she finds herself in a dangerous game of cat and mouse with both Lecter and the killer she is hunting."
+    },
+    {
+        "title": "Psycho",
+        "yearReleased": 1960,
+        "director": "Alfred Hitchcock",
+        "category": "Horror",
+        "image": "/images/psycho.jpg",
+        "description": "The movie tells the story of Marion Crane, a woman who steals money from her employer and goes on the run. She ends up at the Bates Motel, where she meets the friendly but odd Norman Bates, who runs the motel with his mother. However, as the night progresses, Marion realizes that there is something deeply sinister and disturbing about Norman and his mother. With its iconic shower scene and thrilling plot twists, Psycho is a must-see for horror fans and anyone interested in classic cinema."
+    },
+    {
+        "title": "Alien",
+        "yearReleased": 1979,
+        "director": "Ridley Scott",
+        "category": [
+            "Horror",
+            "Sci-fi"
+        ],
+        "image": "/images/alien.jpg",
+        "description": "The film that follows the crew of the Nostromo, a commercial spacecraft, as they are awakened from cryogenic sleep to investigate a distress signal from an unknown planet. Upon landing, they discover a seemingly abandoned alien spacecraft and a chamber filled with strange eggs. When one of the eggs hatches and unleashes a deadly creature, the crew must fight for their survival against a relentless and terrifying alien threat. "
+    },
+    {
+        "title": "The Exorcist",
+        "yearReleased": 1973,
+        "director": "William Friedkin",
+        "category": "Horror",
+        "image": "/images/the_exorcist.jpg",
+        "description": "It tells the story of a young girl named Regan who becomes possessed by a demonic entity. Her mother seeks the help of two priests to perform an exorcism and rid her daughter of the evil within. The film is known for its chilling scenes and disturbing imagery, and it remains one of the most iconic horror films of all time. With its powerful performances and haunting story, The Exorcist is a must-see for fans of the horror genre."
+    },
+    {
+        "title": "A Clockwork Orange",
+        "yearReleased": 1971,
+        "director": "Stanley Kubrick",
+        "category": "Drama",
+        "image": "/images/clockwork_orange.jpg",
+        "description": "The movie follows Alex DeLarge, a young charismatic delinquent in a near-future Britain, who leads his gang on a spree of violence, rape, and theft. When he's finally arrested and subjected to experimental aversion therapy to cure him of his violent tendencies, the question of whether he's truly reformed or has merely lost his free will becomes the central theme of the movie. "
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "yearReleased": 1968,
+        "director": "Stanley Kubrick",
+        "category": "Sci-fi",
+        "image": "/images/2001_space_odyssey.jpg",
+        "description": "2001: A Space Odyssey is a visually stunning and thought-provoking science fiction film that explores the evolution of human consciousness and the possibility of extraterrestrial life. The film is a masterpiece of its genre, renowned for its groundbreaking special effects and iconic music. Spanning from prehistoric times to the far reaches of space, 2001: A Space Odyssey is an epic journey that challenges viewers to contemplate the mysteries of the universe and the nature of human existence."
+    },
+    {
+        "title": "The Shining",
+        "yearReleased": 1980,
+        "director": "Stanley Kubrick",
+        "category": "Horror",
+        "image": "/images/the_shining.jpg",
+        "description": "It follows the story of Jack Torrance, a writer and recovering alcoholic, who takes a job as the off-season caretaker at the isolated Overlook Hotel in Colorado with his wife and son. As the winter settles in, the family begins to experience increasingly terrifying supernatural occurrences, and Jack's mental state deteriorates into madness. The film is renowned for its iconic imagery, haunting score, and memorable performances, making it a must-see for horror enthusiasts and Kubrick fans alike."
+    },
+    {
+        "title": "E.T. the Extra-Terrestrial",
+        "yearReleased": 1982,
+        "director": "Steven Spielberg",
+        "category": "Sci-fi",
+        "image": "/images/et.jpg",
+        "description": "E.T. the Extra-Terrestrial is a beloved science fiction film directed by Steven Spielberg. The movie tells the heartwarming story of a young boy named Elliott who befriends an alien stranded on Earth. As Elliott helps E.T. to return home, he learns important lessons about love, friendship, and loyalty. With its memorable characters, iconic music, and stunning visuals, E.T. has become a classic of the sci-fi genre and a timeless family favorite."
+    },
+    {
+        "title": "Back to the Future",
+        "yearReleased": 1985,
+        "director": "Robert Zemeckis",
+        "category": "Sci-fi",
+        "image": "/images/back_to_the_future.jpg",
+        "description": "It tells the story of teenager Marty McFly, who is accidentally sent back in time from 1985 to 1955. There, he meets his parents as teenagers and inadvertently interferes with their meeting, putting his own existence in jeopardy. With the help of an eccentric scientist named Doc Brown, Marty must find a way to get back to the future before he erases himself from existence."
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "yearReleased": 1981,
+        "director": "Steven Spielberg",
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "image": "/images/raiders_of_the_lost_ark.jpg",
+        "description": "Starring Harrison Ford as Indiana Jones, a professor of archaeology and adventurer who is on a quest to find the Ark of the Covenant before it falls into the hands of the Nazis. With thrilling action sequences, memorable characters, and a gripping storyline, this film is a classic of the genre and has inspired countless imitators. Whether you're a fan of action films, adventure stories, or just great movies in general, Raiders of the Lost Ark is a must-see."
+    },
+    {
+        "title": "Star Wars: The Empire Strikes Back",
+        "yearReleased": 1980,
+        "director": "Irvin Kershner",
+        "category": "Sci-fi",
+        "image": "/images/empire_strikes_back.jpg",
+        "description": "The film follows the continuing adventures of Luke Skywalker, Princess Leia, Han Solo, and their companions as they battle against the evil Empire. Along the way, they encounter new allies and enemies, and Luke receives guidance from the wise Jedi Master Yoda. With iconic characters, thrilling action sequences, and unforgettable moments, The Empire Strikes Back is widely regarded as one of the greatest science fiction films of all time."
+    },
+    {
+        "title": "Apocalypse Now",
+        "yearReleased": 1979,
+        "director": "Francis Ford Coppola",
+        "category": "Drama",
+        "image": "/images/apocalypse_now.jpg",
+        "description": "Set during the Vietnam War, Apocalypse Now follows the journey of Captain Benjamin L. Willard (Martin Sheen) as he is sent on a secret mission deep into the Cambodian jungle to assassinate a renegade colonel named Walter E. Kurtz (Marlon Brando), who has gone insane and is leading his own private army. The film is a gripping exploration of the psychological toll of war, as well as a commentary on the dehumanizing effects of violence and power."
+    },
+    {
+        "title": "Platoon",
+        "yearReleased": 1986,
+        "director": "Oliver Stone",
+        "category": "Drama",
+        "image": "/images/platoon.jpg",
+        "description": "The movie follows the story of Chris Taylor, a young man who drops out of college and volunteers to fight in the Vietnam War. As a new recruit, Taylor is assigned to a platoon that is already divided, with some soldiers following the experienced Sergeant Barnes and others following the more compassionate Sergeant Elias. The film portrays the harsh realities of war, including the brutality, drug use, and the struggle between the soldiers themselves. "
+    },
+    {
+        "title": "American Beauty",
+        "yearReleased": 1999,
+        "director": "Sam Mendes",
+        "category": "Drama",
+        "image": "/images/american_beauty.jpg",
+        "description": "The movie tells the story of Lester Burnham, a middle-aged man who is going through a midlife crisis and begins to reevaluate his life. As he becomes infatuated with his teenage daughter's best friend and quits his job to work at a fast-food restaurant, Lester's life takes a drastic turn. The film explores themes of beauty, freedom, and redemption, and the characters grapple with issues such as family dysfunction, societal pressures, and the quest for personal happiness. "
+    },
+    {
+        "title": "There Will Be Blood",
+        "yearReleased": 2007,
+        "director": "Paul Thomas Anderson",
+        "category": "Drama",
+        "image": "/images/there_will_be_blood.jpg",
+        "description": "The movie follows the story of Daniel Plainview, an oil prospector who becomes a wealthy and powerful tycoon during the early years of the oil boom in Southern California. As he becomes more successful, he also becomes more ruthless and greedy, and his relationships with his family and business partners become strained. The film explores themes of capitalism, power, and family dynamics, and features a stunning performance by Daniel Day-Lewis in the lead role."
+    },
+    {
+        "title": "The Green Mile",
+        "yearReleased": 1999,
+        "director": "Frank Darabont",
+        "category": "Drama",
+        "image": "/images/the_green_mile.jpg",
+        "description": "The story takes place in a Louisiana prison during the 1930s, where a group of death row inmates await their executions. The film follows the experiences of Paul Edgecomb, a prison guard played by Tom Hanks, who develops a relationship with John Coffey, a giant of a man with incredible healing powers, played by Michael Clarke Duncan. As Edgecomb and the other guards get to know Coffey, they begin to question his guilt and the morality of the death penalty."
+    },
+    {
+        "title": "The Godfather: Part II",
+        "yearReleased": 1974,
+        "director": "Francis Ford Coppola",
+        "category": "Drama",
+        "image": "/images/the_godfather_part_ii.jpg",
+        "description": "Set in the 1950s and 60s, the movie follows the parallel storylines of Michael Corleone (Pacino), the new head of the Corleone crime family, and his father Vito Corleone (De Niro), a young immigrant who rises to power in New York City's criminal underworld. With its compelling performances, intricate plot, and themes of power, loyalty, and family, The Godfather: Part II is widely considered to be one of the greatest films ever made."
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "yearReleased": 1966,
+        "director": "Sergio Leone",
+        "category": "Drama",
+        "image": "/images/the_good_the_bad_and_the_ugly.jpg",
+        "description": "Set during the American Civil War, the movie follows three gunslingers who are in search of a buried treasure. Blondie (the Good), Angel Eyes (the Bad), and Tuco (the Ugly) are all ruthless characters, willing to do whatever it takes to get their hands on the loot. The film is known for its iconic soundtrack, breathtaking cinematography, and unforgettable performances by Clint Eastwood, Lee Van Cleef, and Eli Wallach."
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "yearReleased": 1968,
+        "director": "Sergio Leone",
+        "category": "Drama",
+        "image": "/images/once_upon_a_time_in_the_west.jpg",
+        "description": "The movie tells the story of a mysterious stranger (played by Charles Bronson) who arrives in a small town where a railroad tycoon (played by Henry Fonda) is trying to force the locals off their land. Along the way, he meets a former prostitute (played by Claudia Cardinale) who is on a mission of her own. The film is known for its stunning cinematography, epic score by Ennio Morricone, and memorable performances by the cast. "
+    },
+    {
+        "title": "Arrival",
+        "yearReleased": 2016,
+        "director": "Denis Villeneuve",
+        "category": "Sci-fi",
+        "image": "/images/arrival.jpg",
+        "description": "The movie follows a linguistics professor (played by Amy Adams) who is recruited by the military to communicate with extraterrestrial beings who have arrived on Earth. As she learns their language and begins to understand their intentions, she must race against time to prevent a global catastrophe. Arrival is known for its stunning visuals, intelligent script, and powerful performances by the cast."
+    },
+    {
+        "title": "The Revenant",
+        "yearReleased": 2015,
+        "director": "Alejandro González Iñárritu",
+        "category": "Drama",
+        "image": "/images/the_revenant.jpg",
+        "description": "Set in the 1820s American wilderness, the movie follows a fur trapper named Hugh Glass (played by Leonardo DiCaprio) who is left for dead by his fellow hunters after a brutal bear attack. As he fights to survive and seek revenge, he faces numerous obstacles including harsh weather conditions, hostile Native American tribes, and his own physical limitations. The Revenant is known for its stunning cinematography, powerful performances, and gripping storyline."
+    },
+    {
+        "title": "The Hateful Eight",
+        "yearReleased": 2015,
+        "director": "Quentin Tarantino",
+        "category": "Drama",
+        "image": "/images/the_hateful_eight.jpg",
+        "description": "Set shortly after the American Civil War, the movie follows a group of strangers who are forced to take shelter in a remote haberdashery during a blizzard. As tensions rise and secrets are revealed, it becomes clear that not everyone is who they claim to be, and violence is inevitable. The film is known for its dark humor, sharp dialogue, and excellent ensemble cast including Samuel L. Jackson, Kurt Russell, and Jennifer Jason Leigh. "
+    },
+    {
+        "title": "Django Unchained",
+        "yearReleased": 2012,
+        "director": "Quentin Tarantino",
+        "category": [
+            "Drama",
+            "Action"
+        ],
+        "image": "/images/django_unchained.jpg",
+        "description": "The story follows a freed slave named Django, played by Jamie Foxx, as he partners with a bounty hunter named Dr. King Schultz, played by Christoph Waltz, to track down and free Django's wife from a brutal plantation owner. The film features Tarantino's trademark blend of dark humor, graphic violence, and intricate storytelling, along with standout performances from Foxx, Waltz, and Leonardo DiCaprio as the despicable plantation owner."
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "yearReleased": 2012,
+        "director": "Christopher Nolan",
+        "category": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "image": "/images/the_dark_knight_rises.jpg",
+        "description": "The film stars Christian Bale as Bruce Wayne/Batman, who must come out of retirement to face his most formidable foe yet: Bane, a ruthless mercenary intent on destroying Gotham City. Along with a stellar cast including Tom Hardy, Anne Hathaway, and Joseph Gordon-Levitt, The Dark Knight Rises delivers heart-pumping action, high stakes drama, and complex themes about heroism, sacrifice, and redemption. "
+    },
+    {
+        "title": "Gravity",
+        "yearReleased": 2013,
+        "director": "Alfonso Cuarón",
+        "category": [
+            "Sci-fi",
+            "Thriller"
+        ],
+        "image": "/images/gravity.jpg",
+        "description": "The film stars Sandra Bullock and George Clooney as astronauts stranded in space after their shuttle is destroyed by debris. With breathtaking cinematography, groundbreaking special effects, and a powerful performance by Bullock, Gravity delivers an intense and immersive cinematic experience. The film also explores themes of survival, loss, and the human spirit in the face of adversity."
+    },
+    {
+        "title": "The Princess Bride",
+        "yearReleased": 1987,
+        "director": "Rob Reiner",
+        "category": "Adventure",
+        "image": "/images/the_princess_bride.jpg",
+        "description": "The film tells the tale of a young woman named Buttercup (Robin Wright) and her true love Westley (Cary Elwes), who must rescue her from an evil prince (Chris Sarandon) with the help of a colorful cast of characters, including a giant (Andre the Giant) and a swashbuckling swordsman (Mandy Patinkin). With its clever humor, memorable characters, and timeless themes of love, honor, and adventure, The Princess Bride has become a cultural touchstone."
+    },
+    {
+        "title": "The Breakfast Club",
+        "yearReleased": 1985,
+        "director": "John Hughes",
+        "category": "Drama",
+        "image": "/images/the_breakfast_club.jpg",
+        "description": "The movie follows five high school students, each representing a different high school stereotype: the popular girl, the jock, the nerd, the rebel, and the outcast. The students are forced to spend a Saturday together in detention and must confront their differences and find common ground. The Breakfast Club is a heartwarming and funny exploration of teenage life, rebellion, and social hierarchies."
+    },
+    {
+        "title": "The Matrix Reloaded",
+        "yearReleased": 2003,
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "category": [
+            "Action",
+            "Sci-fi"
+        ],
+        "image": "/images/the_matrix_reloaded.jpg",
+        "description": "The movie picks up where the first one left off, following the story of Neo, Trinity, and Morpheus as they continue their fight against the oppressive machines that control humanity. In this movie, the trio must confront a new threat - an army of machines that are digging towards the last human city of Zion. The Matrix Reloaded features breathtaking action sequences, mind-bending visual effects, and an intricate plot that challenges the viewer's perception of reality."
+    },
+    {
+        "title": "The Notebook",
+        "yearReleased": 2004,
+        "director": "Nick Cassavetes",
+        "category": "Drama",
+        "image": "/images/the_notebook.jpg",
+        "description": "The Notebook is a heartwarming romantic film based on Nicholas Sparks' novel of the same name. The movie tells the story of Noah and Allie, two young lovers who are separated by social class and family disapproval. Set in the 1940s, the film takes viewers on a journey of young love, heartbreak, and the enduring power of true love."
+    },
+    {
+        "title": "The Sixth Sense",
+        "yearReleased": 1999,
+        "director": "M. Night Shyamalan",
+        "category": "Drama",
+        "image": "/images/the_sixth_sense.jpg",
+        "description": "It tells the story of a young boy named Cole, who is haunted by ghosts that only he can see. His mother seeks help from Dr. Malcolm Crowe, a child psychologist who has his own personal demons to face. As Crowe tries to help Cole, he discovers that his own life is intertwined with the boy's in ways he never imagined. With its twist ending that has become iconic, The Sixth Sense is a thought-provoking and chilling film that keeps viewers on the edge of their seats."
+    },
+    {
+        "title": "Ex Machina",
+        "yearReleased": 2014,
+        "director": "Alex Garland",
+        "category": "Sci-fi",
+        "image": "/images/ex_machina.jpg",
+        "description": "Caleb, a young programmer, is selected to participate in a groundbreaking experiment to test the abilities of an AI named Ava. As Caleb begins to interact with Ava, he realizes that there is more to her than meets the eye. As the experiment progresses, the lines between man and machine begin to blur, and Caleb finds himself questioning the nature of consciousness and the ethics of artificial intelligence. "
+    },
+    {
+        "title": "Edge of Tomorrow",
+        "yearReleased": 2014,
+        "director": "Doug Liman",
+        "category": "Sci-fi",
+        "image": "/images/edge_of_tomorrow.jpg",
+        "description": " The film takes place in a future where Earth is under attack by an alien race known as the Mimics. A military officer named William Cage is forced into battle against the aliens despite having no combat experience. After being killed in battle, Cage finds himself inexplicably stuck in a time loop, reliving the same day over and over again. With the help of a skilled soldier named Rita Vrataski, Cage uses his time loop to become a better fighter and try to save humanity from the Mimics."
+    },
+    {
+        "title": "Her",
+        "yearReleased": 2013,
+        "director": "Spike Jonze",
+        "category": "Sci-fi",
+        "image": "/images/her.jpg",
+        "description": "Her is a unique and thought-provoking romance film set in the near future, where people have become increasingly reliant on technology. The story follows a lonely writer named Theodore, played by Joaquin Phoenix, who falls in love with an artificially intelligent operating system named Samantha, voiced by Scarlett Johansson. As Theodore and Samantha's relationship deepens, the film explores complex themes of love, connection, and what it means to be human. "
+    },
+    {
+        "title": "Annihilation",
+        "yearReleased": 2018,
+        "director": "Alex Garland",
+        "category": ["Sci-fi","Horror"],
+        "image": "/images/annihilation.jpg",
+        "description":"The film follows a group of scientists on a dangerous expedition into a mysterious and rapidly expanding environmental anomaly known as the Shimmer. Led by biologist Lena, played by Natalie Portman, the team discovers that the laws of nature and the boundaries of human consciousness are being rewritten within the Shimmer. As they face terrifying new creatures and unravel the mysteries of the anomaly, they are forced to confront their deepest fears and darkest secrets."
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "yearReleased": 2004,
+        "director": "Michel Gondry",
+        "category": "Drama",
+        "image": "/images/eternal_sunshine.jpg",
+        "description": "Eternal Sunshine of the Spotless Mind is a unique and imaginative film that explores the complexities of love and memory. Joel and Clementine, two former lovers, undergo a procedure to erase each other from their memories. As Joel begins to relive their relationship during the erasure process, he realizes that he wants to hold onto the memories of Clementine, despite their tumultuous past. "
+    }
+    ,
+    {
+        "title": "The Adjustment Bureau",
+        "yearReleased": 2011,
+        "director": "George Nolfi",
+        "category": "Sci-fi",
+        "image": "/images/the_adjustment_bureau.jpg",
+        "description": "The movie follows the story of David Norris, a charismatic politician who meets a beautiful dancer named Elise Sellas. As he falls in love with her, David discovers that a mysterious group of agents known as the Adjustment Bureau are determined to keep them apart. With stunning visuals and thought-provoking themes, The Adjustment Bureau is a must-see for fans of science fiction and romance."
+        }
+
+]

@@ -1,0 +1,475 @@
+/*
+=============== 
+Variables
+===============
+*/
+@import url('https://use.fontawesome.com/releases/v5.13.0/css/all.css');
+
+:root {
+  --clr-primary-02: hsl(22, 31%, 88%);
+  --clr-primary-00: hsl(15, 17%, 95%);
+  --clr-primary-05: hsl(22, 31%, 52%);
+  --clr-primary-08: hsl(20, 31%, 74%);
+  /* dark shades of primary color*/
+  --clr-primary-1: hsl(205, 86%, 17%);
+  --clr-primary-2: hsl(205, 77%, 27%);
+  --clr-primary-3: hsl(205, 72%, 37%);
+  --clr-primary-4: hsl(205, 63%, 48%);
+  --clr-primary-01: hsl(22, 28%, 29%);
+  /* primary/main color */
+  --clr-primary-5: hsl(20, 31%, 52%);
+  /* lighter shades of primary color */
+  --clr-primary-6: hsl(205, 89%, 70%);
+  --clr-primary-7: hsl(20, 31%, 76%);
+  --clr-primary-8: hsl(205, 86%, 81%);
+  --clr-primary-9: hsl(205, 90%, 88%);
+  --clr-primary-10: hsl(22, 31%, 88%);
+  /* darkest grey - used for headings */
+  --clr-grey-1: hsl(209, 61%, 16%);
+  --clr-grey-2: hsl(211, 39%, 23%);
+  --clr-rust-1: hsl(18, 86%, 39%);
+  --clr-rust-2: hsl(39.2, 100%, 85.3%);
+  --clr-grey-3: hsl(209, 34%, 30%);
+  --clr-grey-4: hsl(209, 28%, 39%);
+  /* grey used for paragraphs */
+  --clr-grey-5: hsl(210, 22%, 49%);
+  --clr-grey-6: hsl(209, 23%, 60%);
+  --clr-grey-7: hsl(211, 27%, 70%);
+  --clr-grey-8: hsl(210, 31%, 80%);
+  --clr-grey-9: hsl(212, 33%, 89%);
+  --clr-grey-10: hsl(210, 36%, 96%);
+  --clr-white: #fff;
+  --clr-red-dark: hsl(360, 67%, 44%);
+  --clr-red-light: hsl(360, 71%, 66%);
+  --clr-green-dark: hsl(125, 67%, 44%);
+  --clr-green-light: hsl(125, 71%, 66%);
+  --clr-black: #222;
+  --transition: all 0.3s linear;
+  --spacing: 0.1rem;
+  --radius: 0.25rem;
+  --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  --max-width: 1170px;
+  --fixed-width: 620px;
+}
+
+/*
+=============== 
+Global Styles
+===============
+*/
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background: var(--clr-primary-02);
+  color: var(--clr-grey-1);
+  line-height: 1.5;
+  font-size: 0.875rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: var(--spacing);
+  text-transform: capitalize;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 0.875rem;
+}
+
+p {
+  margin-bottom: 1.25rem;
+  color: var(--clr-grey-5);
+}
+
+@media screen and (min-width: 800px) {
+  h1 {
+    font-size: 4rem;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+  }
+
+  h3 {
+    font-size: 1.75rem;
+  }
+
+  h4 {
+    font-size: 1rem;
+  }
+
+  body {
+    font-size: 1rem;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    line-height: 1;
+  }
+}
+
+/*  global classes */
+
+/* section */
+.section {
+  padding: 5rem 0;
+}
+
+.section-center {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: var(--max-width);
+}
+
+@media screen and (min-width: 992px) {
+  .section-center {
+    width: 95vw;
+  }
+}
+
+.text-center {
+  text-align: center;
+}
+
+@keyframes spinner {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.btn {
+  text-transform: uppercase;
+  background: var(--clr-primary-5);
+  color: var(--clr-primary-10);
+  padding: 0.375rem 0.75rem;
+  letter-spacing: var(--spacing);
+  display: inline-block;
+  font-weight: 400;
+  transition: var(--transition);
+  font-size: 0.875rem;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border-radius: var(--radius);
+  border-color: transparent;
+}
+
+.btn:hover {
+  color: var(--clr-primary-1);
+  background: var(--clr-primary-7);
+}
+
+.title {
+  text-align: center;
+}
+
+.title .underline {
+  width: 6rem;
+  height: 0.25rem;
+  background: #49a6e9;
+  background: var(--clr-primary-5);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+  width: 90vw;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  gap: 1rem;
+}
+
+nav {
+  background: var(--clr-white);
+  box-shadow: var(--light-shadow);
+}
+
+.nav-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.nav-toggle {
+  font-size: 1.5rem;
+  color: var(--clr-primary-01);
+  background: transparent;
+  border-color: transparent;
+  transition: var(--transition);
+  cursor: pointer;
+}
+
+.nav-toggle:hover {
+  color: var(--clr-primary-01);
+  transform: rotate(90deg);
+}
+
+.logo {
+  height: 40px;
+}
+
+.links a {
+  color: var(--clr-primary-01);
+  font-size: 1.15rem;
+  text-transform: capitalize;
+  letter-spacing: var(--spacing);
+  display: block;
+  padding: 0.5rem 1rem;
+  transition: var(--transition);
+}
+
+.links a:hover {
+  background: var(--clr-primary-8);
+  color: var(--clr-primary-05);
+  padding-left: 1.5rem;
+}
+
+.social-icons {
+  display: none;
+}
+
+.links-container ul{
+  height: 0;
+  overflow: hidden;
+  transition: var(--transition);
+}
+
+/* .show-container {
+  height: 10rem;
+} */
+
+.search-movie-box {
+  width: 400px;
+  margin: 20px;
+  height: 40px;
+  padding-left: 30px;
+}
+
+@media screen and (min-width: 800px) {
+  .nav-center {
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+  }
+
+  .nav-header {
+    padding: 0;
+  }
+
+  .nav-toggle {
+    display: none;
+  }
+
+  .links-container ul{
+    height: auto !important;
+  }
+
+  .links {
+    display: flex;
+  }
+
+  .links a {
+    padding: 0;
+    margin: 0 0.5rem;
+  }
+
+  .links a:hover {
+    padding: 0;
+    background: transparent;
+  }
+
+  .social-icons {
+    display: flex;
+  }
+
+  .social-icons a {
+    margin: 0 0.5rem;
+    color: var(--clr-primary-5);
+    transition: var(--transition);
+  }
+
+  .social-icons a:hover {
+    color: var(--clr-primary-7);
+  }
+
+  /* Error message */
+  .errmsg {
+    color: wheat;
+    background-color: crimson;
+  }
+
+  /* login page */
+  .loginContainer {
+    padding: 25px;
+    margin-left: 25%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 50%;
+    box-shadow: 0 1px 2px 1px #ddd;
+    border-radius: 3px;
+  }
+
+  /* Stars */
+
+}
+@media screen and (max-width: 768px) {
+  .links-container ul{
+  
+    display: none;
+  }
+  
+  .show-container ul{
+    display: block;
+    height: 17rem; 
+  } 
+}
+.dropdown-content {
+  display: none;
+  position:fixed;
+  background-color: #f9f9f9;
+  min-width: 185px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content .sublink {
+  display: block;
+  text-align: center;
+  margin:auto;
+  font-size: 1.15rem;
+  color: #5F4435;
+  text-decoration: none; 
+}
+.dropdown-content .sublink:hover {  
+  background: var(--clr-primary-10);
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.on {
+  color: #f8db03;
+}
+
+.off {
+  color: #d2d0d0;
+}
+
+/* Reviews on Single Movie Page */
+.numOfReviews {
+  margin: auto;
+  margin-left: 0;
+}
+
+/* button size same */
+.btn-same {
+  width: 110px;
+  max-width: 100%;
+}
+
+/* watch list image */
+.watchLsImg {
+  width: 45%;
+  height: 150px;
+}
+
+/*documentation page*/
+.docButton {
+  text-transform: uppercase;
+  background: var(--clr-primary-5);
+  color: var(--clr-primary-10);
+  padding: 0.175rem 0.375rem;
+  letter-spacing: var(--spacing);
+  display: inline-block;
+  font-weight: 400;
+  transition: var(--transition);
+  font-size: 0.875rem;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border-radius: var(--radius);
+  border-color: transparent;
+  height: 25px;
+}
+
+.docButton:hover {
+  color: var(--clr-primary-1);
+  background: var(--clr-primary-7);
+}
+
+.mb-0>a>button {
+  margin-right: 1rem;
+
+
+}
+
+.mb-0>a {
+  display: block;
+  position: relative;
+  font-weight: bold;
+
+}
+
+.mb-0>a:after {
+  content: "\f058";
+  /* fa-chevron-down */
+  font-family: "Font Awesome 5 Free";
+  position: absolute;
+  right: 0;
+}
+
+.mb-0>a[aria-expanded="true"]:after {
+  content: "\f057";
+  /* fa-chevron-up */
+}
+/* Single Movie page */
+.singleMovieImg{
+  width: 10rem;
+  height: auto;
+}
+.singleMovieText{
+  font-size: 20px;
+}
